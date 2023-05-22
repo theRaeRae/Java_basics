@@ -48,6 +48,10 @@ Comparison with null and undefined - null and undefined are different when using
 
 An Incomparable Undefined - Undefined should not be compared to other values.
 
+CONDITIONAL STATEMENTS
 
+if Statements - Execute <code> if (condition) is true
+else Statements - Execute <code> if (condition) is false
+else if Statements - Execute <code> if (condition 1) is false
 
 
