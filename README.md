@@ -38,3 +38,16 @@ String comp - Strings are compared letter by letter. Lexicographical
             - Z > A
             - Lenght of a string is considered
             - Ascii chart. Upper case are lesser than lower case
+
+Comparison of Different Types - JS converts values to numbers
+
+Strict Equality - Checks the equality without type conversion
+
+Comparison with null and undefined - null and undefined are different when using === but are the same when using ==
+            - When using operators, null = 0 and undefined = NaN
+
+An Incomparable Undefined - Undefined should not be compared to other values.
+
+
+
+
