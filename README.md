@@ -30,3 +30,11 @@ JS STRING METHODS
 12. trimEnd( ) - removes whitespace at the end
 
 COMPARISON
+
+"the essence of programming is teaching the computer how to make decisions in order to do more involved things." - The Odin Project
+
+Boolean - True or false
+String comp - Strings are compared letter by letter. Lexicographical
+            - Z > A
+            - Lenght of a string is considered
+            - Ascii chart. Upper case are lesser than lower case
