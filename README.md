@@ -29,3 +29,4 @@ JS STRING METHODS
 11. trimStart( ) - removes whitespace at the front
 12. trimEnd( ) - removes whitespace at the end
 
+COMPARISON
