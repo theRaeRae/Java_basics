@@ -54,4 +54,7 @@ if Statements - Execute <code> if (condition) is true
 else Statements - Execute <code> if (condition) is false
 else if Statements - Execute <code> if (condition 1) is false
 
+LOGICAL OPERATORS
 
+|| (OR) - Used in an if statement to test if any of the given conditions is true
+        - A chain of OR returns the first true value or the last one if all are false
