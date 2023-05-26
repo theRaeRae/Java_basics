@@ -58,4 +58,3 @@ LOGICAL OPERATORS
 
 || (OR) - Used in an if statement to test if any of the given conditions is true
         - A chain of OR returns the first true value or the last one if all are false
-        
