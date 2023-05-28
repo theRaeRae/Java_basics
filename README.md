@@ -62,3 +62,11 @@ LOGICAL OPERATORS
 && (AND) - two ampersands. && returns true if both conditions are true and false otherwise
         - Retruns the first false or the alst if none were found.
 ! (NOT) - exclamation point. accepts single values.
+
+MAKING DECISIONS
+
+if else
+else if
+nesting if else
+switch statements
+ternary operator
