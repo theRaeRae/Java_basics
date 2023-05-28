@@ -70,3 +70,6 @@ else if
 nesting if else
 switch statements
 ternary operator
+
+CONDITIONAL BRANCHING
+just a review nothing much
