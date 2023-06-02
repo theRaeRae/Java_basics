@@ -73,3 +73,6 @@ ternary operator
 
 CONDITIONAL BRANCHING
 just a review nothing much
+
+SWITCH STATEMENT
+- Can replace multiple if checks
